@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi Pico
 layout: page
-has-children: true
+has_children: true
 ---
 
 # Raspberry Pi Pico
